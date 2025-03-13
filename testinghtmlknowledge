@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mindful Daily Journal</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; }
+        h1, h2, h3 { color: #333; }
+        blockquote { font-style: italic; color: #555; border-left: 3px solid #ccc; padding-left: 10px; }
+        ul { list-style: none; padding: 0; }
+        li { margin: 5px 0; }
+        input[type="checkbox"] { margin-right: 8px; }
+    </style>
+</head>
+<body>
+
+    <h1>Mindful Daily Journal</h1>
+
+    <h2>Morning</h2>
+
+    <h3>How do you feel today?</h3>
+    <blockquote>&gt;</blockquote>
+    <blockquote>&gt;</blockquote>
+
+    <h3>What are your goals for the day ahead?</h3>
+    <ul>
+        <li><input type="checkbox"> </li>
+        <li><input type="checkbox"> </li>
+        <li><input type="checkbox"> </li>
+        <li><input type="checkbox"> </li>
+    </ul>
+
+    <h3>What are you grateful for this morning?</h3>
+    <blockquote>&gt;</blockquote>
+    <blockquote>&gt;</blockquote>
+
+    <hr>
+
+    <h2>Evening</h2>
+
+    <h3>List three good things that happened today</h3>
+    <ol>
+        <li>&gt;</li>
+        <li>&gt;</li>
+        <li>&gt;</li>
+    </ol>
+
+    <h3>What are you proud of?</h3>
+    <blockquote>&gt;</blockquote>
+    <blockquote>&gt;</blockquote>
+
+    <h3>What was the biggest challenge?</h3>
+    <blockquote>&gt;</blockquote>
+    <blockquote>&gt;</blockquote>
+
+    <h3>What can I do to make tomorrow even better?</h3>
+    <blockquote>&gt;</blockquote>
+    <blockquote>&gt;</blockquote>
+
+    <hr>
+
+    <h2>Preview this template in action</h2>
+
+    <h3>Morning</h3>
+
+    <h3>How do you feel today?</h3>
+    <blockquote>Feeling refreshed and optimistic. I had a good night’s sleep, and I’m excited to tackle the day ahead.</blockquote>
+
+    <h3>What are your goals for the day ahead?</h3>
+    <ul>
+        <li><input type="checkbox"> Complete a project presentation</li>
+        <li><input type="checkbox"> Stay mindful and positive throughout the day</li>
+        <li><input type="checkbox"> Read 20 pages of a book</li>
+        <li><input type="checkbox"> Go for a 30-minute workout</li>
+    </ul>
+
+    <h3>What are you grateful for this morning?</h3>
+    <blockquote>Having a peaceful morning routine with a cup of coffee</blockquote>
+    <blockquote>The support from my friends and family</blockquote>
+    <blockquote>A new opportunity I received at work</blockquote>
+
+    <hr>
+
+    <h3>Evening</h3>
+
+    <h3>List three good things that happened today</h3>
+    <ol>
+        <li>Had a productive brainstorming session with my team, and we came up with great ideas.</li>
+        <li>Received a kind message from a friend that made me smile.</li>
+        <li>Took a long walk after dinner, which helped me clear my mind.</li>
+    </ol>
+
+    <h3>What are you proud of?</h3>
+    <blockquote>I managed to stay focused and complete my work tasks on time.</blockquote>
+
+    <h3>What was the biggest challenge?</h3>
+    <blockquote>Staying off my phone while working—I got distracted a few times, but I tried to refocus quickly.</blockquote>
+
+    <h3>What can I do to make tomorrow even better?</h3>
+    <ul>
+        <li>Start the day with deep breathing or meditation</li>
+        <li>Prioritize tasks better to avoid unnecessary distractions</li>
+        <li>Go to bed earlier for better energy levels</li>
+    </ul>
+
+    <hr>
+
+    <h3>How to use this template</h3>
+    <blockquote>Journalling regularly provides time and space to reflect on the things going on in your life. This simple practice can help you understand yourself better and live a more intentional life.</blockquote>
+    <blockquote>Work through this template every morning and evening to help you build a journaling habit.</blockquote>
+
+    <h3>How to save a new template</h3>
+    <p><a href="https://support.craft.do/hc/en-us/articles/4869505333393-Templates#h_01FYPGQX5QN8M03S8SF93RX275">Templates</a></p>
+
+</body>
+</html>
